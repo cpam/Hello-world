@@ -1,2 +1,3 @@
 # Hello-world
-This is a sample repository for new people. 
+This is a sample repository for new people.
+
